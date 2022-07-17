@@ -1,4 +1,5 @@
 #Draft
+will tidy up rn just dumping my experience
 Strategies used
 First play the function as is black box approach see what the program is abt
 -got understanding the logic but dont exactly understand the question

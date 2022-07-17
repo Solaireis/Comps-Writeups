@@ -1,0 +1,3 @@
+quite fun experiemnt what i did was i use google lens to analyze the place to give me clues about the area. then i read the fun story to find the food restaurants
+i got hungry doing this CTF
+i realised theres no stores with jamaican in it so i research where jamaica is which turns out to be in the carribean area. now its just me bruteforcing the possible jamaica food stores around the stadium to achieve the answer
