@@ -28,3 +28,6 @@ seven
 -realised that simple test cases works, then i run conditionals to achieve the probable soln
 -optimise to fix the bugs that happen in a blackbox testing 
 
+source:
+https://docs.pwntools.com/en/stable/intro.html
+
