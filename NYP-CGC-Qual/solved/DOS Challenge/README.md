@@ -1,8 +1,21 @@
-#Draft
-will tidy up rn just dumping my experience
-Strategies used
-First play the function as is black box approach see what the program is abt
--got understanding the logic but dont exactly understand the question
+# DOS Challenge
+
+![DOS](https://github.com/Solaireis/CTF-Writeups/blob/main/NYP-CGC-Qual/images/DOS.png)
+
+## The Background:
+- DOS Challenge as the name implies wants you the attacker to break the VM
+- The clue given is the nc vm2.gabrielseet.com 1342
+- and the run.py file
+
+
+## My thought process to solving the DOS Challenge
+
+- I firstly ran the program on my terminal by keying in nc vm2.gabrielseet.com 1342
+- the goal here is to understand how the program runs before reading the run.py file
+- Here i am trying to understand the functional requirements of the virtual machine
+- Basically a blackbox approach
+- I realised that the program have a timer at the bottom after every input which caught my attention
+
 Second Read the source code as a white box approach to understand the logic
 -to see how the logic is being flowed
 third find the requirement needed to obtain the flag
