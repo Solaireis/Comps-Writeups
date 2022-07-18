@@ -1,4 +1,5 @@
 # Cyber Games Circle Qualifiers Capture the Flag
+![Cyber Games Circle](https://github.com/Solaireis/CTF-Writeups/blob/main/NYP-CGC-Qual/images/cyberGamesCircle.png)
 ---
 ## Write Ups
 1. [Dos Challenge] (https://github.com/Solaireis/CTF-Writeups/tree/main/NYP-CGC-Qual/solved/DOS%20Challenge)
