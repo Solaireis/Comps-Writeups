@@ -1,2 +1,6 @@
 # CTF-Writeups
-Code_Forces is for the coding competition but is not a CTF
+---
+## Table of Contents
+1. CTF
+2. Code Forces
+
