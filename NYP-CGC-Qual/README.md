@@ -8,9 +8,9 @@
 - I may not be able to finish all the writeups for each challenges but below should include the top 3 most interesting challenge for me.
 ---
 ## Write Ups
-1. [Dos Challenge] (https://github.com/Solaireis/CTF-Writeups/tree/main/NYP-CGC-Qual/solved/DOS%20Challenge)
-2. [Harvey Hunting] (https://github.com/Solaireis/CTF-Writeups/tree/main/NYP-CGC-Qual/solved/Harvey%20Hunting)
-3. [What's for lunch] (https://github.com/Solaireis/CTF-Writeups/tree/main/NYP-CGC-Qual/solved/Whats%20For%20Lunch)
+1.  [Dos Challenge] (https://github.com/Solaireis/CTF-Writeups/tree/main/NYP-CGC-Qual/solved/DOS%20Challenge)
+2.  [Harvey Hunting] (https://github.com/Solaireis/CTF-Writeups/tree/main/NYP-CGC-Qual/solved/Harvey%20Hunting)
+3.  [What's for lunch] (https://github.com/Solaireis/CTF-Writeups/tree/main/NYP-CGC-Qual/solved/Whats%20For%20Lunch)
 ---
 ## Misc Sources that are useful:
 - https://ctf101.org/web-exploitation/overview/
