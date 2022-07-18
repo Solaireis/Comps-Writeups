@@ -1,6 +1,6 @@
 # CTF-Writeups
 ---
 ## Table of Contents
-1. CTF
-2. Code Forces
+1. [CQC Qualifiers CTF](https://github.com/Solaireis/CTF-Writeups/tree/main/NYP-CGC-Qual)
+2. [Code Forces](https://github.com/Solaireis/CTF-Writeups/tree/main/Non-CTF/Code-Forces)
 
