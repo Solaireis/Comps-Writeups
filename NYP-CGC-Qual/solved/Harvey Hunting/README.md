@@ -40,10 +40,10 @@ its in cbc mode so i just put the keys and iv inside. I realised it is invalid a
 eventually i got the flag
 
 Sources:
-https://pastebin.com/u/H4rveyH4ckz
-https://www.wattpad.com/user/H4rveyH4ckz
-https://gchq.github.io/CyberChef/#recipe=ROT13(true,true,false,13)AES_Decrypt(%7B'option':'Hex','string':'1234567890123456789012345aabbcc'%7D,%7B'option':'Hex','string':'341cc2564769012345cbd90123457b4c'%7D,'CBC','Hex','Raw',%7B'option':'Hex','string':''%7D,%7B'option':'Hex','string':''%7D)AES_Encrypt(%7B'option':'Hex','string':'1234567890123456789012345aabbcc'%7D,%7B'option':'Hex','string':'341cc2564769012345cbd90123457b4c'%7D,'CBC','Raw','Hex',%7B'option':'Hex','string':''%7D/breakpoint)&input=MjJyOTUzbzU1MzdvNDZzNjEyOXM4MzU3ODQ3cnM2MzY0NTE5OTJwcjU5b3Jwc243ODY4ODdvOTRwczlyMG5vcw
-https://checkusernames.com
-https://www.osintcombine.com/whatsmyname-usernames
-https://whatsmyname.app
-https://www.instructables.com/member/H4rveyH4ckz/
+- [Pastebin](https://pastebin.com/u/H4rveyH4ckz)
+- [Wattpad](https://www.wattpad.com/user/H4rveyH4ckz)
+- [Cyber Chef](https://gchq.github.io/CyberChef/#recipe=ROT13(true,true,false,13)AES_Decrypt(%7B'option':'Hex','string':'1234567890123456789012345aabbcc'%7D,%7B'option':'Hex','string':'341cc2564769012345cbd90123457b4c'%7D,'CBC','Hex','Raw',%7B'option':'Hex','string':''%7D,%7B'option':'Hex','string':''%7D)AES_Encrypt(%7B'option':'Hex','string':'1234567890123456789012345aabbcc'%7D,%7B'option':'Hex','string':'341cc2564769012345cbd90123457b4c'%7D,'CBC','Raw','Hex',%7B'option':'Hex','string':''%7D/breakpoint)&input=MjJyOTUzbzU1MzdvNDZzNjEyOXM4MzU3ODQ3cnM2MzY0NTE5OTJwcjU5b3Jwc243ODY4ODdvOTRwczlyMG5vcw)
+- [First username checker](https://checkusernames.com)
+- [Open Source Intelligence tools](https://www.osintcombine.com/whatsmyname-usernames)
+- [Whats my name](https://whatsmyname.app)
+- [Instructables](https://www.instructables.com/member/H4rveyH4ckz/)
