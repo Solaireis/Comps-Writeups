@@ -2,7 +2,7 @@
 
 ![HH](https://github.com/Solaireis/CTF-Writeups/blob/main/NYP-CGC-Qual/images/HarveyHunting.png)
 
-# The Background
+## The Background
 - Harvey is a great hacker, so I asked him to protect one of the flags for this competition. He encrypted it and hid the information on different websites.
 
 - For example, he placed the encrypted flag in the following pastebin link. https://pastebin.com/31buwWYw
@@ -21,6 +21,11 @@
 
 ## Gathering information from the pastebin
 
+![pb](https://github.com/Solaireis/CTF-Writeups/blob/main/NYP-CGC-Qual/images/pastebin.png)
+- Here we have the information of the flag, since it is encrypted we will need to find the key and possibly other parts of the encryption cipher to decrypt the cipher text
+
+![username](https://github.com/Solaireis/CTF-Writeups/blob/main/NYP-CGC-Qual/images/username.png)
+- Since its hinted the other information are from the same username we will have to copy his username and gather even more information.
 
 then i started searching for username website hunting tools to search
 the first website i used managed to narrow my results but it wasnt enough as it gave many false negatives
