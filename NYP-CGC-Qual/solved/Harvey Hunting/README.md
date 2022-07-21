@@ -22,22 +22,31 @@
 ## Gathering information from the pastebin
 
 ![pb](https://github.com/Solaireis/CTF-Writeups/blob/main/NYP-CGC-Qual/images/pastebin.png)
-- Here we have the information of the flag, since it is encrypted we will need to find the key and possibly other parts of the encryption cipher to decrypt the cipher text
+> Here we have the information of the flag, since it is encrypted we will need to find the key and possibly other parts of the encryption cipher to decrypt the cipher text
 
 ![username](https://github.com/Solaireis/CTF-Writeups/blob/main/NYP-CGC-Qual/images/username.png)
-- Since its hinted the other information are from the same username we will have to copy his username and gather even more information.
+> Since its hinted the other information are from the same username we will have to copy his username and gather even more information.
 
-then i started searching for username website hunting tools to search
-the first website i used managed to narrow my results but it wasnt enough as it gave many false negatives
+I tried searching for his username through google but it gave me no results. 
+This lead me to believe we need to have website that hunts and index people usernames across the web.
+The first website i used managed to narrow my results but it wasnt enough as it gave many false negatives and too many search results.
+I realised there ought to be better google search results which exists.
+After a long search i found a good website that helps search for harveyhacks with great accuracy.
+![usernameFinder](https://github.com/Solaireis/CTF-Writeups/blob/main/NYP-CGC-Qual/images/osintCombine.png)
 
-i realised there ought to be betetr google search results which exists, actually i found one and it lead me to 3 websites that contains the harveyhacks
+Clicking on the two links gives us further details about this challenge.
+![wattpad](https://github.com/Solaireis/CTF-Writeups/blob/main/NYP-CGC-Qual/images/wattpad.png)
+![instructibles](https://github.com/Solaireis/CTF-Writeups/blob/main/NYP-CGC-Qual/images/instructibles.png)
+Wattpad leads us to cyberchef an website that is great for us to do the decoding of the flag.
+I went to play around cyberchef since im a first time user using it.
+![CyberChef](https://github.com/Solaireis/CTF-Writeups/blob/main/NYP-CGC-Qual/images/cc.png)
+As we can see here the clue given is the order of how the flag was encrypted which was AES encryption first using CBC mode and then using rot13 cipher.
+Based on how AES decrypts we need to go backwards to decrypt the information.
+Using the information we are given, we have the Key, IV and we know it uses CBC chaining based on the cyberchef recipe. We also know that it uses a shifting cipher to mix up the encrypted message abit more. Now it time to cook our recipe to decrypt the message.
+![HH](https://github.com/Solaireis/CTF-Writeups/blob/main/NYP-CGC-Qual/images/flagHH.png) 
+And here it is the flag is 
+> FLAG{H4RV3Y_H4S_B33N_H4NT3D!}
 
-this turns out to be a crypto challenge too 
-it was my first time using cyberchef so i was extremely clueless about what this website is about and i had to play around with it
-
-i realised we need decode the aes cipher so i pullled a aes decoder,
-its in cbc mode so i just put the keys and iv inside. I realised it is invalid and then i realised they shifted the cipher to have the rot13 mix everything up and
-eventually i got the flag
 
 Sources:
 - [Pastebin](https://pastebin.com/u/H4rveyH4ckz)
