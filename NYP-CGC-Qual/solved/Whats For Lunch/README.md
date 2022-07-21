@@ -40,16 +40,27 @@ The next clue given in the PDF is that it is a jamaican restuarant, Searching ja
 ![place](https://github.com/Solaireis/CTF-Writeups/blob/main/NYP-CGC-Qual/images/carribeanView.png)
 
 > Narrowing the search result I guessed it should be the carribean view as it fulfills 3 clues.
-- It has vegen option
 - It is carribean
 - It is across the street from where we pinpoint mark to be at
  
- Now lets obtain the phone number and try
+> Now lets obtain the phone number and try if it works.
  
 ![phone](https://github.com/Solaireis/CTF-Writeups/blob/main/NYP-CGC-Qual/images/phoneFlag.png)
 
-![phone](https://github.com/Solaireis/CTF-Writeups/blob/main/NYP-CGC-Qual/images/phoneFlag2.png)
+>Sadly this is not the answer which means it may have to be another carribean restaurant. This is normal as our friends in real life also tend to give us vague description of jamaican restaurants which are down across the road. Let's look for another possible route
 
-Ta Da! its solved
-> FLAG{+442088083496}
+![place](https://github.com/Solaireis/CTF-Writeups/blob/main/NYP-CGC-Qual/images/solvedd.jpg)
+
+> We found another carribean restuarant let see if it fits the description the OSINT challenge gave
+- It is carribean
+- It is across the street from where we pinpoint mark to be at
+- Has vegetarian options
+
+> Alright I think this is it, could it be the carribean restaurant we are looking for???!?!?
+
+>IT IS!
+
+>Ta Da! its solved
+
+> FLAG{+442083659905}
 
