@@ -1,8 +1,12 @@
 # What's For Lunch
 ![lunch](https://github.com/Solaireis/CTF-Writeups/blob/main/NYP-CGC-Qual/images/lunch.png)
 ## Background
-> The Cyber Games Circle is having its first (fictional) overseas excursion! After a fun morning of flag-finding,Its time for lunch!
-Your teammates have found a place to eat at, do you know where it is? To prove that you do, give us the phone number of the place.
+> The Cyber Games Circle is having it's first (fictional) overseas excursion! After a fun morning of flag-finding, it's time for lunch! Your teammates have found a place to eat at, do you know where it is? To prove that you do, give us the phone number of the place.
+
+> Submit your answer in the format FLAG{phone number}. Be sure to add the country code extension (e.g. +65). For example, the flag could be FLAG{+123456789012}.
+
+
+>Creator: Mark Bosco
 
 ## Prelude
 > This challenge is another Open Source Intelligence Challenge that require us to look for a restaurant phone number. The clues given are inside the pdf.
