@@ -4,7 +4,8 @@
 
 ## The Background:
 - DOS Challenge as the name implies wants you the attacker to break the VM
-- The clue given is the nc vm2.gabrielseet.com 1342
+- The clue given is the 
+> nc vm2.gabrielseet.com 1342
 - and the run.py file
 
 ## My thought process to solving the DOS Challenge
