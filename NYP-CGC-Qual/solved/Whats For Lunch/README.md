@@ -39,7 +39,7 @@ The next clue given in the PDF is that it is a jamaican restuarant, Searching ja
 ![place](https://github.com/Solaireis/CTF-Writeups/blob/main/NYP-CGC-Qual/images/flagWFL.jpg)
 ![place](https://github.com/Solaireis/CTF-Writeups/blob/main/NYP-CGC-Qual/images/carribeanView.png)
 
-> Narrowing the search result I guessed it should be the carribean view as it fulfills 3 clues.
+> Narrowing the search result I guessed it should be the carribean view as it fulfills 2 clues.
 - It is carribean
 - It is across the street from where we pinpoint mark to be at
  
