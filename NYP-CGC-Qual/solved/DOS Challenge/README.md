@@ -28,3 +28,5 @@ managed to achieve the first condition which is time reaching 20s.
 - I then optimise any bugs that comes with the script until it can achieve me the flag
 ![flag](https://github.com/Solaireis/CTF-Writeups/blob/main/NYP-CGC-Qual/images/Flag.png)
 - Overall I find this very simple and doable challenge, the fun was discovering the script to winning the challenge.
+
+> FLAG{d0s_3d_th3_s3rv3r}
