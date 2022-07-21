@@ -1,6 +1,27 @@
-quite fun experiemnt what i did was i use google lens to analyze the place to give me clues about the area. then i read the fun story to find the food restaurants
-i got hungry doing this CTF
-i realised theres no stores with jamaican in it so i research where jamaica is which turns out to be in the carribean area. now its just me bruteforcing the possible jamaica food stores around the stadium to achieve the answer
+# What's For Lunch
+![lunch](https://github.com/Solaireis/CTF-Writeups/blob/main/NYP-CGC-Qual/images/lunch.png)
+## Background
+> The Cyber Games Circle is having its first (fictional) overseas excursion! After a fun morning of flag-finding,Its time for lunch!
+Your teammates have found a place to eat at, do you know where it is? To prove that you do, give us the phone number of the place.
+
+## Prelude
+> This challenge is another Open Source Intelligence Challenge that require us to look for a restaurant phone number. The clues given are inside the pdf.
+
+![bg](https://github.com/Solaireis/CTF-Writeups/blob/main/NYP-CGC-Qual/solved/Whats%20For%20Lunch/Whats_for_Lunch_Chat_Export.png)
+
+> I personally find this a quite a mouthwatering and hungry challenge, nonetheless it is quite fun.
+
+## Solving the question
+> First we will open Google to use the built in Google lens to find the landmark
+Without guessing we can tell from the architecture that this is an european style country.
+The key landmark here is this shopping mall kind of infrastructure.
+My experience in geography usually tell us that to pin point locations one must use landmarks as a marker to indicate a rough approximation and to narrow down our results
+
+![GL](https://github.com/Solaireis/CTF-Writeups/blob/main/NYP-CGC-Qual/images/googleLens.png)
+> Google has a neat search image tool that is built from us using google recaptcha. The tool has matured a lot since its inception with this tool it help us pinpoint the landmark which is this stadium. 
+Being skeptical, I did a rough satelite survey of the place to confirm that it is indeed the image shown in the discord message.
+
+Now its just us to bruteforce the possible restuarants. The next clue given in the PDF is that it is a jamaican restuarant, Searching jamaican in the search results nearby this stadium lead us zero answers. The best way to overcome this is to understand wheres Jamaica, which turss out to be in the carribean
 
 
 sources
