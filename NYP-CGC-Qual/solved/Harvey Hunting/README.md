@@ -34,15 +34,19 @@ I realised there ought to be better google search results which exists.
 After a long search i found a good website that helps search for harveyhacks with great accuracy.
 ![usernameFinder](https://github.com/Solaireis/CTF-Writeups/blob/main/NYP-CGC-Qual/images/osintCombine.png)
 
-Clicking on the two links gives us further details about this challenge.
+> Clicking on the two links gives us further details about this challenge.
+
 ![wattpad](https://github.com/Solaireis/CTF-Writeups/blob/main/NYP-CGC-Qual/images/wattpad.png)
 ![instructibles](https://github.com/Solaireis/CTF-Writeups/blob/main/NYP-CGC-Qual/images/instructibles.png)
-Wattpad leads us to cyberchef an website that is great for us to do the decoding of the flag.
-I went to play around cyberchef since im a first time user using it.
+
+> Wattpad leads us to cyberchef an website that is great for us to do the decoding of the flag.
+> I went to play around cyberchef since im a first time user using it.
+
 ![CyberChef](https://github.com/Solaireis/CTF-Writeups/blob/main/NYP-CGC-Qual/images/cc.png)
-As we can see here the clue given is the order of how the flag was encrypted which was AES encryption first using CBC mode and then using rot13 cipher.
+> As we can see here the clue given is the order of how the flag was encrypted which was AES encryption first using CBC mode and then using rot13 cipher.
 Based on how AES decrypts we need to go backwards to decrypt the information.
 Using the information we are given, we have the Key, IV and we know it uses CBC chaining based on the cyberchef recipe. We also know that it uses a shifting cipher to mix up the encrypted message abit more. Now it time to cook our recipe to decrypt the message.
+
 ![HH](https://github.com/Solaireis/CTF-Writeups/blob/main/NYP-CGC-Qual/images/flagHH.png) 
 And here it is the flag is 
 > FLAG{H4RV3Y_H4S_B33N_H4NT3D!}
