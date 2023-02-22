@@ -10,4 +10,7 @@ Bypass creeper checks within the game to mine unlimited times.
 Truly a sight to behold
 
 Includes customisation such as a better username and more!
+
+includes a automated script to oneshot all the boss under 1 second
+truly efficient
 ```
