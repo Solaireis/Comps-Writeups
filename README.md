@@ -6,3 +6,4 @@ My writeups and experiences solving some of the challenges throughout my cyberse
 1. [CQC Qualifiers CTF](https://github.com/Solaireis/CTF-Writeups/tree/main/NYP-CGC-Qual)[WIP]
 2. [Code Forces](https://github.com/Solaireis/CTF-Writeups/tree/main/Non-CTF/Code-Forces)
 3. [TISC 2022 CTF](https://github.com/Solaireis/CTF-Writeups/tree/main/TISC-2022)[WIP]
+4. [TISC 2024 CTF](https://github.com/Solaireis/CTF-Writeups/tree/main/TISC-2024)[WIP]
