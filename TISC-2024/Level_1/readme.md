@@ -23,24 +23,31 @@ I begin searching for the username vi_vox223 on username search engines
 - TBC
 
 ### 4 - adding the discord bot
-It uses a link such as
->  https://discord.com/api/oauth2/authorize?client_id=123456789012345678&permissions=0&scope=bot%20applications.commands
+It uses a link which allows the adding of bot into the server
+>  https://discord.com/api/oauth2/authorize?client_id=1258440262951370813&permissions=0&scope=bot%20applications.commands
 
 ### 5 - changing role permissions in the server
 
-- changed role to doppleganger 
+- changed role to doppleganger
+<img src=https://github.com/Solaireis/Comps-Writeups/blob/main/TISC-2024/Level_1/images/role.png >
 
 ### 6 - running through the discord bot commands
 
-- TBC
+<img src=https://github.com/Solaireis/Comps-Writeups/blob/main/TISC-2024/Level_1/images/read.png >
+
+<img src=https://github.com/Solaireis/Comps-Writeups/blob/main/TISC-2024/Level_1/images/list.png >
+
+
+<img src=https://github.com/Solaireis/Comps-Writeups/blob/main/TISC-2024/Level_1/images/username.png >
 
 ### 7 - Opening the files contained in the discord bot
 
-- TBC
+<img src=https://github.com/Solaireis/Comps-Writeups/blob/main/TISC-2024/Level_1/images/email.png >
+
 
 ### 8 - finding the email attachment
 
-- TBC
+<img src=https://github.com/Solaireis/Comps-Writeups/blob/main/TISC-2024/Level_1/images/mail.png >
 
 ### 9 - locating the location stated in the email using uber geospatial tech
 
@@ -49,7 +56,9 @@ It uses a link such as
 
 ### 10 - going to linkedin to obtain the telegram dictionary bot
 
-- TBC
+<img src=https://github.com/Solaireis/Comps-Writeups/blob/main/TISC-2024/Level_1/images/book.png>
+
+<img src=https://github.com/Solaireis/Comps-Writeups/blob/main/TISC-2024/Level_1/images/botlink.png >
 
 ### 11 - Messaging the telegram bot the place location
 
