@@ -19,10 +19,10 @@ I begin searching for the username vi_vox223 on username search engines
 - TBC
 
 ### 4 - adding the discord bot
+It uses a link such as
+>  https://discord.com/api/oauth2/authorize?client_id=123456789012345678&permissions=0&scope=bot%20applications.commands
 
-- TBC
-
-### 5 - chaanging role permissions in the server
+### 5 - changing role permissions in the server
 
 - TBC
 
