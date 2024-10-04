@@ -4,33 +4,52 @@
 ### LEVEL 1
 <img src=https://github.com/Solaireis/Comps-Writeups/blob/main/TISC-2024/Level_1/images/Level_1_desc.png width=500px height=500px>
 
-### Initial Thoughts
+### 1 - Initial Thoughts
 After reading the challenge,
 The challenge appears to be an OSINT challenge.
 
-### Finding the username online
+### 2 - Finding the username online
 Using the osint framework
 https://osintframework.com/
 
 I begin searching for the username vi_vox223 on username search engines
 
-### Deciphering the instagram post
+### 3 - Deciphering the instagram post
 
+- TBC
 
-### adding the discord bot
+### 4 - adding the discord bot
 
-### chaanging role permissions in the server
+- TBC
 
-### running through the discord bot commands
+### 5 - chaanging role permissions in the server
 
-### Opening the files contained in the discord bot
+- TBC
 
-### finding the email attachment
+### 6 - running through the discord bot commands
 
-### locating the location stated in the email using uber geospatial tech
+- TBC
 
-### going to linkedin to obtain the telegram dictionary bot
+### 7 - Opening the files contained in the discord bot
 
-### Messaging the telegram bot the place location
+- TBC
 
-### Obtaining the flag 
+### 8 - finding the email attachment
+
+- TBC
+
+### 9 - locating the location stated in the email using uber geospatial tech
+
+- TBC
+
+### 10 - going to linkedin to obtain the telegram dictionary bot
+
+- TBC
+
+### 11 - Messaging the telegram bot the place location
+
+- TBC
+
+### 12 Obtaining the flag 
+
+- TBC
