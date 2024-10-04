@@ -1,4 +1,5 @@
-![search](https://github.com/user-attachments/assets/bf9bc950-3600-41dd-8afb-449b3c42f6de)# Navigating the Digital Labyrinth Walkthrough
+
+# Navigating the Digital Labyrinth Walkthrough
 ## TISC
 
 ### LEVEL 1
