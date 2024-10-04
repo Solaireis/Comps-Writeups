@@ -1,4 +1,4 @@
-# Navigating the Digital Labyrinth Walkthrough
+![search](https://github.com/user-attachments/assets/bf9bc950-3600-41dd-8afb-449b3c42f6de)# Navigating the Digital Labyrinth Walkthrough
 ## TISC
 
 ### LEVEL 1
@@ -17,6 +17,8 @@ https://osintframework.com/
 I begin searching for the username vi_vox223 on username search engines
 
 
+
+<img src=https://github.com/Solaireis/Comps-Writeups/blob/main/TISC-2024/Level_1/images/search.jpeg >
 
 ### 3 - Deciphering the instagram post
 
