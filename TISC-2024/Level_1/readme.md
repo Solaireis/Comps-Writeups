@@ -24,7 +24,7 @@ It uses a link such as
 
 ### 5 - changing role permissions in the server
 
-- TBC
+- changed role to doppleganger 
 
 ### 6 - running through the discord bot commands
 
@@ -48,8 +48,8 @@ It uses a link such as
 
 ### 11 - Messaging the telegram bot the place location
 
-- TBC
+- 
 
 ### 12 Obtaining the flag 
 
-- TBC
+- Congratulations! You've found me. Here's your flag: TISC{OS1N7_Cyb3r_InV35t1g4t0r_uAhf3n}
