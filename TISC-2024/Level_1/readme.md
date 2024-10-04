@@ -12,7 +12,7 @@ The challenge appears to be an OSINT challenge.
 Using the osint framework
 https://osintframework.com/
 
-<img src=https://github.com/Solaireis/Comps-Writeups/blob/main/TISC-2024/Level_1/images/osint_framework.png width=500px height=500px>
+<img src=https://github.com/Solaireis/Comps-Writeups/blob/main/TISC-2024/Level_1/images/osint_framework.png >
 
 I begin searching for the username vi_vox223 on username search engines
 
@@ -44,7 +44,7 @@ It uses a link such as
 
 ### 9 - locating the location stated in the email using uber geospatial tech
 
-<img src=https://github.com/Solaireis/Comps-Writeups/blob/main/TISC-2024/Level_1/images/uber.png width=500px height=500px>
+<img src=https://github.com/Solaireis/Comps-Writeups/blob/main/TISC-2024/Level_1/images/uber.png >
 
 
 ### 10 - going to linkedin to obtain the telegram dictionary bot
@@ -53,7 +53,7 @@ It uses a link such as
 
 ### 11 - Messaging the telegram bot the place location
 
- <img src=https://github.com/Solaireis/Comps-Writeups/blob/main/TISC-2024/Level_1/images/telegram_bot.png width=500px height=500px>
+ <img src=https://github.com/Solaireis/Comps-Writeups/blob/main/TISC-2024/Level_1/images/telegram_bot.jpg >
 
 
 ### 12 Obtaining the flag 
