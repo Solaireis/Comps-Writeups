@@ -10,6 +10,6 @@ Here are the corresponding challenges done
   </tr>
   <tr>
       <td>  1  </td>
-      <td>   </td>
+      <td>  Navigating the Digital Labyrinth Walkthrough </td>
   </tr>
 </table>
