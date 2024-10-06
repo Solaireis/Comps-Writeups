@@ -10,6 +10,6 @@ Here are the corresponding challenges done
   </tr>
   <tr>
       <td>  1  </td>
-      <td>  [Navigating the Digital Labyrinth Walkthrough](https://github.com/Solaireis/Comps-Writeups/blob/main/TISC-2024/Level_1/readme.md)  </td>
+      <td> <a name="" href= "https://github.com/Solaireis/Comps-Writeups/blob/main/TISC-2024/Level_1/readme.md"> Navigating the Digital Labyrinth Walkthrough</a>  </td>
   </tr>
 </table>
